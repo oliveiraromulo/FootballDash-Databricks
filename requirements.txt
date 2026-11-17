@@ -1,0 +1,2 @@
+databricks-sdk==0.122.0
+databricks-sql-connector==4.8.0
